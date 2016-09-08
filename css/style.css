@@ -41,3 +41,17 @@ hr{
   margin: 9rem 0;
   border-color: rgba(57, 19, 46, 0.7);
 }
+
+.name{
+  font-size: 7.5rem;
+  margin:0;
+}
+
+.logo{
+  height:50px;
+}
+
+.navbar-brand{
+  padding-bottom:2px;
+  padding-top:2px;
+}
