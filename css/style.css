@@ -45,6 +45,7 @@ hr{
 .name{
   font-size: 7.5rem;
   margin:0;
+  text-shadow: 3px 3px 4px rgba(0,0,0,0.8);
 }
 
 .logo{
